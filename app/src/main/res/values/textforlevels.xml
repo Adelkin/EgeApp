@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text0">zero</string>
+    <string name="lvl1text1">one</string>
+    <string name="lvl1text2">two</string>
+    <string name="lvl1text3">Three</string>
+    <string name="lvl1text4">Four</string>
+    <string name="lvl1text5">Five</string>
+    <string name="lvl1text6">Six</string>
+    <string name="lvl1text7">Seven</string>
+    <string name="lvl1text8">Eight</string>
+    <string name="lvl1text9">nine</string>
+
+    <string name="lvl2text1">I</string>
+    <string name="lvl2text2">II</string>
+    <string name="lvl2text3">III</string>
+    <string name="lvl2text4">IV</string>
+    <string name="lvl2text5">V</string>
+    <string name="lvl2text6">VI</string>
+    <string name="lvl2text7">VII</string>
+    <string name="lvl2text8">VII</string>
+    <string name="lvl2text9">IX</string>
+    <string name="lvl2text10">X</string>
+
+    <string name="lvl3text1">Кролик1</string>
+    <string name="lvl3text2">Кролик2</string>
+    <string name="lvl3text3">Кролик3</string>
+    <string name="lvl3text4">Кролик4</string>
+    <string name="lvl3text5">Кролик5</string>
+    <string name="lvl3text6">Кролик6</string>
+    <string name="lvl3text7">Кролик7</string>
+    <string name="lvl3text8">Кролик8</string>
+    <string name="lvl3text9">Кролик9</string>
+    <string name="lvl3text10">Кролик10</string>
+    <string name="lvl3text11">Мопс11</string>
+    <string name="lvl3text12">Мопс12</string>
+    <string name="lvl3text13">Мопс13</string>
+    <string name="lvl3text14">Мопс14</string>
+    <string name="lvl3text15">Мопс15</string>
+    <string name="lvl3text16">Мопс16</string>
+    <string name="lvl3text17">Мопс17</string>
+    <string name="lvl3text18">Мопс18</string>
+    <string name="lvl3text19">Мопс19</string>
+    <string name="lvl3text20">Мопс20</string>
+    <string name="lvl3text21">Мопс21</string>
+
+    <string name="lvl4texts1">Арбуз1</string>
+    <string name="lvl4text2">Арбуз2</string>
+    <string name="lvl4text3">Арбуз3</string>
+    <string name="lvl4text4">Арбуз4</string>
+    <string name="lvl4text5">Арбуз5</string>
+    <string name="lvl4text6">Арбуз6</string>
+    <string name="lvl4text7">Арбуз7</string>
+    <string name="lvl4text8">Арбуз8</string>
+    <string name="lvl4text9">Арбуз9</string>
+    <string name="lvl4text10">Арбуз10</string>
+    <string name="lvl4text11">Колесо1</string>
+    <string name="lvl4text12">Колесо2</string>
+    <string name="lvl4text13">Колесо3</string>
+    <string name="lvl4text14">Колесо4</string>
+    <string name="lvl4text15">Колесо5</string>
+    <string name="lvl4text16">Колесо6</string>
+    <string name="lvl4text17">Колесо7</string>
+    <string name="lvl4text18">Колесо8</string>
+    <string name="lvl4text19">Колесо9</string>
+    <string name="lvl4text20">Колесо10</string>
+</resources>
